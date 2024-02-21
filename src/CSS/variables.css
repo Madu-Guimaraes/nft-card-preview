@@ -1,0 +1,8 @@
+:root {
+    --primary-soft: hsl(215, 51%, 70%);
+    --primary-hard: hsl(178, 100%, 50%);
+
+    --neutral-dark-BG: hsl(217, 54%, 11%);
+    --neutral-dark-card-BG: hsl(216, 50%, 16%);
+    --neutral-dark-line: hsl(215, 32%, 27%);
+}

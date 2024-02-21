@@ -24,7 +24,4 @@ além de deixar seu código muito mais organizado, você ainda tem total control
 
 ## Link para o site: 🖥️
 
-[NFT Card Preview]()
-
-## Design Responsivo 📱🖥️
-
+[NFT Card Preview](https://madu-guimaraes.github.io/nft-card-preview/)

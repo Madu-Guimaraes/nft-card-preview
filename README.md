@@ -28,4 +28,4 @@ além de deixar seu código muito mais organizado, você ainda tem total control
 
 ## Design Responsivo e Ações 📱🖥️
 
-![nft-card-preview](https://github.com/Madu-Guimaraes/nft-card-preview/assets/146151781/cd166ff5-5b43-4de4-aef7-637021443bdf)
+[nft-card-preview](https://github.com/Madu-Guimaraes/nft-card-preview/assets/146151781/cd166ff5-5b43-4de4-aef7-637021443bdf)
